@@ -1,3 +1,7 @@
+Credit goes to @ageitgey https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710
+
+
+
 ### Before you get started
 
 To run these scripts, you need the following installed:
